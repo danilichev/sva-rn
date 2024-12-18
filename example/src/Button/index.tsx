@@ -1,8 +1,6 @@
-import { Text, TouchableOpacity } from 'react-native';
-import type { StyleProp, ViewStyle } from 'react-native';
+import { StyleProp, Text, TouchableOpacity, ViewStyle } from 'react-native';
 
-import { sva } from 'sva-rn';
-import type { Style } from 'sva-rn';
+import { Style, sva } from 'sva-rn';
 
 import { styles } from './styles';
 
